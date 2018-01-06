@@ -1,10 +1,13 @@
-## My deviation from photography 
+## A self learners 
 
 
-### to web dev
+### Deviation from photography 
 
 
-### say hello
+### To web dev
+
+
+
 
 
 
