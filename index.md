@@ -1,10 +1,11 @@
-## My journey of code
+## My deviation from photography 
 
 
-### Photographer
+### to web dev
 
 
 ### say hello
+
 
 
 
