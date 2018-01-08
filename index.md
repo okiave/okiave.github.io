@@ -10,7 +10,7 @@
 **Progress**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
 
-**__Reflections__**: As freelancer and a father with a sick kiddo today; I see this 90min daily dedication succeeding best by allotting a time slot on the calendar.Especially considering that my first 30 days is trial to ingrain the routine and establish the systematic structure in my lifestyle to commit to a part-time code boot camp. I'm looking to pivot my career and fully formalize my knowledge of development by the end of 2018.This is exciting and equally challenging. That's a good sign because resistance in a journey brings real progress.
+**Reflections**: As freelancer and a father with a sick kiddo today; I see this 90min daily dedication succeeding best by allotting a time slot on the calendar.Especially considering that my first 30 days is trial to ingrain the routine and establish the systematic structure in my lifestyle to commit to a part-time code boot camp. I'm looking to pivot my career and fully formalize my knowledge of development by the end of 2018.This is exciting and equally challenging. That's a good sign because resistance in a journey brings real progress.
 
 **Learned**: 
 
@@ -109,7 +109,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 **Progress**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
 
-**__Reflections__**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
+**Reflections**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
 
 
 **Learned**: 
