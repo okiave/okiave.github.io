@@ -12,7 +12,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 **__Reflections__**: As freelancer and a father with a sick kiddo today; I see this 90min daily dedication succeeding best by allotting a time slot on the calendar.Especially considering that my first 30 days is trial to ingrain the routine and establish the systematic structure in my lifestyle to commit to a part-time code boot camp. I'm looking to pivot my career and fully formalize my knowledge of development by the end of 2018.This is exciting and equally challenging. That's a good sign because resistance in a journey brings real progress.
 
-**__Learned__**: 
+**Learned**: 
 
 1. Vim 
 
@@ -28,7 +28,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
    After pushing my first commit i found the format of log needing love with some indentation and lists.  
    
 
-**__Tweaks__**:
+**Tweaks**:
 
 * Tomorrow's 90min block to read the intro for javascript has been set to start at2100 after the hopefully not too ill kiddos have gone to bed. 
 
@@ -40,11 +40,11 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ### Day 2: Enero 2, Tuesday
 
-**__Progress__**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
+**Progress**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
 
-**__Reflections__**: Ok so today, my son Rio was sick. Yesterday it was my daughter. NTL when he napped in the car I took the time to  review css/html challenges of FCC. This was fun bc the dopamine high i was on of knowing how to navigate those basics. Now that I'm at the node.js challenge the first hurdle will be getting a local version of learnmymongodb up and running. I may also just opt to do a docker image with all the goodies.
+**Reflections**: Ok so today, my son Rio was sick. Yesterday it was my daughter. NTL when he napped in the car I took the time to  review css/html challenges of FCC. This was fun bc the dopamine high i was on of knowing how to navigate those basics. Now that I'm at the node.js challenge the first hurdle will be getting a local version of learnmymongodb up and running. I may also just opt to do a docker image with all the goodies.
 
-**__Learned__**: 
+**Learned**: 
 
 1. CSS - Multiple classes per element 
 
@@ -59,7 +59,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
    Having troubleshooted some aspects of Wordpress, I was already familiar with the how a relational database organizes its contents. Watching a tutorial on mongodb blew my mind bc it connected the dots for how an app could scale dynamically based on demand. It was cool to see I could make sense of the JSON formatting thanks to my adventures in #maptime geoJSON data.
    
 
-**__Tweaks__**:
+**Tweaks**:
 
 * Continue trouble shooting Xcode and MongoDb tomorrow in order to complete learnmymongodb challenge.
 
@@ -74,12 +74,12 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ### Day 3: Enero 3, Wednesday
 
-**__Progress__**: Mongodb running in AWS cloud9 and Git repo back in sync 
+**Progress**: Mongodb running in AWS cloud9 and Git repo back in sync 
 
-**__Reflections__**: Last night's late tweet on needing help bc he FCC tutorial no longer reflected changes made by AWS buyout was key. A long time twitter amigo [@knapkjack](https://twitter.com/knapjack/status/948572871156154368) found a git repo with directions to get rolling.  The video i watched last night while xcode downloaded gave me enough of a frame work that the the first two challenges of installing and verifying mongodb. Now that I've completed the first two exercises of leanrmymongo I can tell the new wall has to do with understanding the js syntax.
+**Reflections**: Last night's late tweet on needing help bc he FCC tutorial no longer reflected changes made by AWS buyout was key. A long time twitter amigo [@knapkjack](https://twitter.com/knapjack/status/948572871156154368) found a git repo with directions to get rolling.  The video i watched last night while xcode downloaded gave me enough of a frame work that the the first two challenges of installing and verifying mongodb. Now that I've completed the first two exercises of leanrmymongo I can tell the new wall has to do with understanding the js syntax.
 
 
-**__Learned__**: 
+**Learned**: 
 
 1. AWS/c9
 
@@ -95,7 +95,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
        
    
 
-**__Tweaks__**:
+**Tweaks**:
 
 * Define programing terminology: array and conditional statements
 
@@ -107,12 +107,12 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ### Day 4: Enero 4, Thursday
 
-**__Progress__**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
+**Progress**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
 
 **__Reflections__**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
 
 
-**__Learned__**: 
+**Learned**: 
 
 1. DOM
 
@@ -125,7 +125,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
  * [Yourtube playlist to JS and jquery ](https://www.youtube.com/playlist?list=PLmayTjecwZXNigR19fK6xt51y8VBn-6Cw)
    
 
-**__Tweaks__**:
+**Tweaks**:
 
 * Continue to learn about computer science aspects of arrays, conditionals, and events.
 
@@ -138,19 +138,19 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ### Day 5: Enero 5, Friday
 
-**__Progress__**: Tweaked my github pages repo. 
+**Progress**: Tweaked my github pages repo. 
 
-**__Reflections__**: A week of with little exercise and major project management make for barriers to learning. The experiment to learn under stress is only manageable if I have a method for expressing the pent up energy. Looks like swimming, running, and roller skating are back in. My body needs that anaerobic hit of goodness at least three times a week.
+**Reflections**: A week of with little exercise and major project management make for barriers to learning. The experiment to learn under stress is only manageable if I have a method for expressing the pent up energy. Looks like swimming, running, and roller skating are back in. My body needs that anaerobic hit of goodness at least three times a week.
 
 
-**__Learned__**: 
+**Learned**: 
 
 1. Meltown/Spectre
 
     My recent learnings on arrays and their use of memory blocks brought enough insight that I could follow a rough understanding about how the current architecture/operations of modern CPUs can be used to access memory stored on CPU. 
     
 
-**__Tweaks__**:
+**Tweaks**:
 
 * More exercise, less coping behaviors  
 
@@ -160,19 +160,19 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ### Day 6: Enero 6, Saturday
 
-**__Progress__**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
+**Progress**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
 
-**__Reflections__**: Some how I managed to skip to the Mongodb tutorial before I had even got into the JQuery challenges. I think this happened that day I did my 90min of code between errands in the car on an ipad while my sick Rio napped. In other news bootstrap is amazing! Back when I was self-learning css there was no such thing as responsive design and a lot of the pretty fancy things had to be done with background image placements and detailed grid positions. So glad that framework came to be.
+**Reflections**: Some how I managed to skip to the Mongodb tutorial before I had even got into the JQuery challenges. I think this happened that day I did my 90min of code between errands in the car on an ipad while my sick Rio napped. In other news bootstrap is amazing! Back when I was self-learning css there was no such thing as responsive design and a lot of the pretty fancy things had to be done with background image placements and detailed grid positions. So glad that framework came to be.
 
 
-**__Learned__**: 
+**Learned**: 
 
 1. Bootstrap
 
     Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
     
 
-**__Tweaks__**:
+**Tweaks**:
 
 * Must clean up computer. Performance is too laggy.  
 
@@ -181,19 +181,19 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ### Day 7: Enero 7, Sunday
 
-**__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
+**Progress**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
-**__Reflections__**: A lot of what astonishes me about the web is how much seems to get abstracted. To think that I will first be learning JQuery before js makes me consider whether this will hinder my future ability. I tend to lean on the side of knowing the origin of things in order to make sense of the present. Clearly I'm free to educate myself deeper than the challenges from FCC. Also got a new local buddy joining me on the FCC 
+**Reflections**: A lot of what astonishes me about the web is how much seems to get abstracted. To think that I will first be learning JQuery before js makes me consider whether this will hinder my future ability. I tend to lean on the side of knowing the origin of things in order to make sense of the present. Clearly I'm free to educate myself deeper than the challenges from FCC. Also got a new local buddy joining me on the FCC 
 
 
-**__Learned__**: 
+**Learned**: 
 
 1. Bootstrap
 
     Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
     
 
-**__Tweaks__**:
+**Tweaks**:
 
 * Moving to standing desk for code. I can feel my posture caving.  
 
