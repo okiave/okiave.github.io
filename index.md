@@ -70,6 +70,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * bring git repo back into sync with local.
 
 * clean up house to find my welding glasses for these late night screen sessions.
+
 ---
 
 ### Day 3: Enero 3, Wednesday
@@ -102,6 +103,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * Source a tutorial for understanding JS syntax
 
 * clean up house to find my welding glasses for late night screen sessions.
+
 ---
 
 
