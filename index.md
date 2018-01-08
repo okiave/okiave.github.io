@@ -1,4 +1,4 @@
-# A self learners 100 Days Of Code Log   
+# A self learners 100 Days Of Code Log - 2018  
 
 ### Day 0: Last half of Dec 2017
 **Reflections**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon from hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
