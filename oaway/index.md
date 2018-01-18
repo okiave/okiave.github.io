@@ -3,17 +3,19 @@
 
 :zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. 
 
-Day 1 of 100days started on 1st day of 2018. All hours are in AKST (Alaska!!) I use moon emojis &#1F31A; :first_quarter_moon_with_face::full_moon_with_face::last_quarter_moon_with_face: to track my energy on this journey. A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes. Being the scientist that she is, we logged our progress and found a correlation between our endurance and distances as they related to the phases of the moon. Since then I've tested some of what we learned in other ways and am a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity/progress/restoration. The other part to this formula is a practice of staying attuned to the body through self-awareness practices like mindfulness and by implementing cognitive behavioral tweaks as you discover more about yourself. 
+Day 1 of 100days started on 1st day of 2018. All hours are in AKST (Alaska!!) I use moon emojis :new_moon_with_face::first_quarter_moon_with_face::full_moon_with_face::last_quarter_moon_with_face: to track my energy on this journey because I'm am a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity/restoration.
+
+A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes. She is a scientist so we logged our progress and found our endurance and distance traveled seemed to correlate with the phases of the moon. Since then I've tested some of what we learned and started exploring a framework of mindfulness practices and cognitive behavioral tweaks to adapt to stress and challenges. 
 
 ---
 
 ### Day 9: Enero 9, Tuesday
 
-**Progress**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
+**__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
 
-**Reflections**: The prompt for the project used the term "*user stories*" that linked to wiki entry that referenced a man by the name of Alistair Cockburn who created Agile model for developing software. This immediately was my sign from the universe to make the tribute page about him because now I get to research the methodology and its origins. I'm also interested to better understand user stories. My decision to pivot toward dev skills is that I've found the life of a photographer too isolating when it comes to most projects. I really enjoy working on teams and see code as the context to get deeper into that world.
+**__Reflections__**: The prompt for the project used the term "*user stories*" that linked to wiki entry that referenced a man by the name of Alistair Cockburn who created Agile model for developing software. This immediately was my sign from the universe to make the tribute page about him because now I get to research the methodology and its origins. I'm also interested to better understand user stories. My decision to pivot toward dev skills is that I've found the life of a photographer too isolating when it comes to most projects. I really enjoy working on teams and see code as the context to get deeper into that world.
 
-**Learned**: 
+**__Learned__**: 
 
 1. CSS Borders please
 
@@ -24,7 +26,7 @@ Day 1 of 100days started on 1st day of 2018. All hours are in AKST (Alaska!!) I 
 
 	One of the CS concepts I'm still wrapping my head around is how data is stored and passed on down the line. IDK how i found this but this [screencast video](https://scrimba.com/p/pRB9Hw/cN9EWSw) of a dad explaining to his son gave me a greater vocabulary. Now I know that arrays can be objects and be called in and that the values of labels can also be used.
 When the dad was teaching his son about POJOs (Plain 'ol javascript object) also reminded me of pollo :chicken: and pollito :baby_chick:.
-**Tweaks**:
+**__Tweaks__**:
 
 * Gonna give these logs their due diligence so i can practice regurgitating more of what i learned.
 
@@ -33,18 +35,18 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### Day 8: Enero 8, Monday
 
-**Progress**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
+**__Progress__**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
 
-**Reflections**: Early morning are absolutely the zone for me to learn. My mind is crisp and by reading out loud I grasp what's happening. I've noticed I can have a tendency to miss small details like capital letters mid selection or function which greatly affect the result. Also moving to standing desk for seshes keeps me way more attentive to how my body feels and that in turn proves to keep me more alert for learning.
+**__Reflections__**: Early morning are absolutely the zone for me to learn. My mind is crisp and by reading out loud I grasp what's happening. I've noticed I can have a tendency to miss small details like capital letters mid selection or function which greatly affect the result. Also moving to standing desk for seshes keeps me way more attentive to how my body feels and that in turn proves to keep me more alert for learning.
 
-**Learned**: 
+**__Learned__**: 
 
 1. $("document").ready(function()) {} );
 
     The $ at the start of the statement can be read as bling. Additional statements are put between the curly brackets {} and end with a semi-colon. Its also possible to combine multiple selectors together.
     
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Gonna give these logs their due diligence so i can practice regurgitating more of what i learned.
 
@@ -54,19 +56,19 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### :last_quarter_moon:Day 7: Enero 7, Sunday:last_quarter_moon:
 
-**Progress**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
+**__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
-**Reflections**: A lot of what astonishes me about the web is how much seems to get abstracted. To think that I will first be learning JQuery before js makes me consider whether this will hinder my future ability. I tend to lean on the side of knowing the origin of things in order to make sense of the present. Clearly I'm free to educate myself deeper than the challenges from FCC. Also got a new local buddy joining me on the FCC 
+**__Reflections__**: A lot of what astonishes me about the web is how much seems to get abstracted. To think that I will first be learning JQuery before js makes me consider whether this will hinder my future ability. I tend to lean on the side of knowing the origin of things in order to make sense of the present. Clearly I'm free to educate myself deeper than the challenges from FCC. Also got a new local buddy joining me on the FCC 
 
 
-**Learned**: 
+**__Learned__**: 
 
 1. Bootstrap
 
     Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
     
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Moving to standing desk for code. I can feel my posture caving.  
 
@@ -76,19 +78,19 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### Day 6: Enero 6, Saturday
 
-**Progress**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
+**__Progress__**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
 
-**Reflections**: Some how I managed to skip to the Mongodb tutorial before I had even got into the JQuery challenges. I think this happened that day I did my 90min of code between errands in the car on an ipad while my sick Rio napped. In other news bootstrap is amazing! Back when I was self-learning css there was no such thing as responsive design and a lot of the pretty fancy things had to be done with background image placements and detailed grid positions. So glad that framework came to be.
+**__Reflections__**: Some how I managed to skip to the Mongodb tutorial before I had even got into the JQuery challenges. I think this happened that day I did my 90min of code between errands in the car on an ipad while my sick Rio napped. In other news bootstrap is amazing! Back when I was self-learning css there was no such thing as responsive design and a lot of the pretty fancy things had to be done with background image placements and detailed grid positions. So glad that framework came to be.
 
 
-**Learned**: 
+**__Learned__**: 
 
 1. Bootstrap
 
     Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
     
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Must clean up computer. Performance is too laggy.  
 
@@ -97,19 +99,19 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### Day 5: Enero 5, Friday
 
-**Progress**: Tweaked my github pages repo. 
+**__Progress__**: Tweaked my github pages repo. 
 
-**Reflections**: A week of with little exercise and major project management make for barriers to learning. The experiment to learn under stress is only manageable if I have a method for expressing the pent up energy. Looks like swimming, running, and roller skating are back in. My body needs that anaerobic hit of goodness at least three times a week.
+**__Reflections__**: A week of with little exercise and major project management make for barriers to learning. The experiment to learn under stress is only manageable if I have a method for expressing the pent up energy. Looks like swimming, running, and roller skating are back in. My body needs that anaerobic hit of goodness at least three times a week.
 
 
-**Learned**: 
+**__Learned__**: 
 
 1. Meltown/Spectre
 
     My recent learnings on arrays and their use of memory blocks brought enough insight that I could follow a rough understanding about how the current architecture/operations of modern CPUs can be used to access memory stored on CPU. 
     
 
-**Tweaks**:
+**__Tweaks__**:
 
 * More exercise, less coping behaviors  
 
@@ -120,12 +122,12 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### Day 4: Enero 4, Thursday
 
-**Progress**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
+**__Progress__**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
 
-**Reflections**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
+**__Reflections__**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
 
 
-**Learned**: 
+**__Learned__**: 
 
 1. DOM
 
@@ -138,7 +140,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
  * [Yourtube playlist to JS and jquery ](https://www.youtube.com/playlist?list=PLmayTjecwZXNigR19fK6xt51y8VBn-6Cw)
    
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Continue to learn about computer science aspects of arrays, conditionals, and events.
 
@@ -152,12 +154,12 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### Day 3: Enero 3, Wednesday
 
-**Progress**: Mongodb running in AWS cloud9 and Git repo back in sync 
+**__Progress__**: Mongodb running in AWS cloud9 and Git repo back in sync 
 
-**Reflections**: Last night's late tweet on needing help bc he FCC tutorial no longer reflected changes made by AWS buyout was key. A long time twitter amigo [@knapkjack](https://twitter.com/knapjack/status/948572871156154368) found a git repo with directions to get rolling.  The video i watched last night while xcode downloaded gave me enough of a frame work that the the first two challenges of installing and verifying mongodb. Now that I've completed the first two exercises of leanrmymongo I can tell the new wall has to do with understanding the js syntax.
+**__Reflections__**: Last night's late tweet on needing help bc he FCC tutorial no longer reflected changes made by AWS buyout was key. A long time twitter amigo [@knapkjack](https://twitter.com/knapjack/status/948572871156154368) found a git repo with directions to get rolling.  The video i watched last night while xcode downloaded gave me enough of a frame work that the the first two challenges of installing and verifying mongodb. Now that I've completed the first two exercises of leanrmymongo I can tell the new wall has to do with understanding the js syntax.
 
 
-**Learned**: 
+**__Learned__**: 
 
 1. AWS/c9
 
@@ -173,7 +175,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
        
    
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Define programing terminology: array and conditional statements
 
@@ -185,11 +187,11 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ### Day 2: Enero 2, Tuesday
 
-**Progress**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
+**__Progress__**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
 
-**Reflections**: Ok so today, my son Rio was sick. Yesterday it was my daughter. NTL when he napped in the car I took the time to  review css/html challenges of FCC. This was fun bc the dopamine high i was on of knowing how to navigate those basics. Now that I'm at the node.js challenge the first hurdle will be getting a local version of learnmymongodb up and running. I may also just opt to do a docker image with all the goodies.
+**__Reflections__**: Ok so today, my son Rio was sick. Yesterday it was my daughter. NTL when he napped in the car I took the time to  review css/html challenges of FCC. This was fun bc the dopamine high i was on of knowing how to navigate those basics. Now that I'm at the node.js challenge the first hurdle will be getting a local version of learnmymongodb up and running. I may also just opt to do a docker image with all the goodies.
 
-**Learned**: 
+**__Learned__**: 
 
 1. CSS - Multiple classes per element 
 
@@ -204,7 +206,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
    Having troubleshooted some aspects of Wordpress, I was already familiar with the how a relational database organizes its contents. Watching a tutorial on mongodb blew my mind bc it connected the dots for how an app could scale dynamically based on demand. It was cool to see I could make sense of the JSON formatting thanks to my adventures in #maptime geoJSON data.
    
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Continue trouble shooting Xcode and MongoDb tomorrow in order to complete learnmymongodb challenge.
 
@@ -221,12 +223,12 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
  
 ###:full_moon_with_face: Day 1: Enero 1, Monday:full_moon_with_face:
 
-**Progress**: Forked and pulled 100daysofcode project via terminal.
+**__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
 
-**Reflections**: As freelancer and a father with a sick kiddo today; I see this 90min daily dedication succeeding best by allotting a time slot on the calendar.Especially considering that my first 30 days is trial to ingrain the routine and establish the systematic structure in my lifestyle to commit to a part-time code boot camp. I'm looking to pivot my career and fully formalize my knowledge of development by the end of 2018.This is exciting and equally challenging. That's a good sign because resistance in a journey brings real progress.
+**__Reflections__**: As freelancer and a father with a sick kiddo today; I see this 90min daily dedication succeeding best by allotting a time slot on the calendar.Especially considering that my first 30 days is trial to ingrain the routine and establish the systematic structure in my lifestyle to commit to a part-time code boot camp. I'm looking to pivot my career and fully formalize my knowledge of development by the end of 2018.This is exciting and equally challenging. That's a good sign because resistance in a journey brings real progress.
 
-**Learned**: 
+**__Learned__**: 
 
 1. Vim 
 
@@ -242,7 +244,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
    After pushing my first commit i found the format of log needing love with some indentation and lists.  
    
 
-**Tweaks**:
+**__Tweaks__**:
 
 * Tomorrow's 90min block to read the intro for javascript has been set to start at2100 after the hopefully not too ill kiddos have gone to bed. 
 
@@ -257,6 +259,6 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 
 ### Day 0: Last half of Dec 2017
-**Reflections**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon from hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
+**__Reflections__**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon from hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
 
 	
